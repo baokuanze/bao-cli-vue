@@ -1,6 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
-  <div>测试jekins-test1</div>
+  <div>测试jekins-test2222</div>
 
 </template>
 
