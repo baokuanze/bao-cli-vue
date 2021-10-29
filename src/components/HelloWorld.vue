@@ -1,6 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
-  <div>这就是测试1</div>
+  <div>132132132132</div>
 
 </template>
 
