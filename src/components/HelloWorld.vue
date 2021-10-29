@@ -1,6 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
-  <div>12321321321</div>
+  <div>bao test</div>
 
 </template>
 
