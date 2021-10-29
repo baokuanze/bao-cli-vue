@@ -1,6 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
-  <div>132132132132</div>
+  <div>客气了</div>
 
 </template>
 
