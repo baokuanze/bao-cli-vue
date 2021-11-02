@@ -1,6 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
-  <div>bao niutest</div>
+  <div>bao niutest 一个解私权  都没有呀</div>
 
 </template>
 
