@@ -1,7 +1,6 @@
 <template>
   <h1>{{ msg }}</h1>
-  <div>bao 测试</div>
-
+  <div>bao 测试 MD</div>
 </template>
 
 <script setup>
